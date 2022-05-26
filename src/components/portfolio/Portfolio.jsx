@@ -20,16 +20,18 @@ function Portfolio() {
           </div>
 
           <h3>This is a portfolio item Title</h3>
-          <a href="https://github.com" className="btn">
-            GitHub
-          </a>
-          <a
-            href="https://github.com"
-            className="btn btb-primary"
-            target="_blank"
-          >
-            Live Demo
-          </a>
+          <div className="portfolio_item-cta">
+            <a href="https://github.com" className="btn">
+              GitHub
+            </a>
+            <a
+              href="https://github.com"
+              className="btn btb-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
         </article>
         <article className="portfolio_item">
           <div className="portfolio_item-image">
@@ -37,16 +39,18 @@ function Portfolio() {
           </div>
 
           <h3>This is a portfolio item Title</h3>
-          <a href="https://github.com" className="btn">
-            GitHub
-          </a>
-          <a
-            href="https://github.com"
-            className="btn btb-primary"
-            target="_blank"
-          >
-            Live Demo
-          </a>
+          <div className="portfolio_item-cta">
+            <a href="https://github.com" className="btn">
+              GitHub
+            </a>
+            <a
+              href="https://github.com"
+              className="btn btb-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
         </article>
         <article className="portfolio_item">
           <div className="portfolio_item-image">
@@ -54,16 +58,18 @@ function Portfolio() {
           </div>
 
           <h3>This is a portfolio item Title</h3>
-          <a href="https://github.com" className="btn">
-            GitHub
-          </a>
-          <a
-            href="https://github.com"
-            className="btn btb-primary"
-            target="_blank"
-          >
-            Live Demo
-          </a>
+          <div className="portfolio_item-cta">
+            <a href="https://github.com" className="btn">
+              GitHub
+            </a>
+            <a
+              href="https://github.com"
+              className="btn btb-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
         </article>
         <article className="portfolio_item">
           <div className="portfolio_item-image">
@@ -71,16 +77,18 @@ function Portfolio() {
           </div>
 
           <h3>This is a portfolio item Title</h3>
-          <a href="https://github.com" className="btn">
-            GitHub
-          </a>
-          <a
-            href="https://github.com"
-            className="btn btb-primary"
-            target="_blank"
-          >
-            Live Demo
-          </a>
+          <div className="portfolio_item-cta">
+            <a href="https://github.com" className="btn">
+              GitHub
+            </a>
+            <a
+              href="https://github.com"
+              className="btn btb-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
         </article>
         <article className="portfolio_item">
           <div className="portfolio_item-image">
@@ -88,16 +96,18 @@ function Portfolio() {
           </div>
 
           <h3>This is a portfolio item Title</h3>
-          <a href="https://github.com" className="btn">
-            GitHub
-          </a>
-          <a
-            href="https://github.com"
-            className="btn btb-primary"
-            target="_blank"
-          >
-            Live Demo
-          </a>
+          <div className="portfolio_item-cta">
+            <a href="https://github.com" className="btn">
+              GitHub
+            </a>
+            <a
+              href="https://github.com"
+              className="btn btb-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
         </article>
         <article className="portfolio_item">
           <div className="portfolio_item-image">
@@ -105,16 +115,18 @@ function Portfolio() {
           </div>
 
           <h3>This is a portfolio item Title</h3>
-          <a href="https://github.com" className="btn">
-            GitHub
-          </a>
-          <a
-            href="https://github.com"
-            className="btn btb-primary"
-            target="_blank"
-          >
-            Live Demo
-          </a>
+          <div className="portfolio_item-cta">
+            <a href="https://github.com" className="btn">
+              GitHub
+            </a>
+            <a
+              href="https://github.com"
+              className="btn btb-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
+          </div>
         </article>
       </div>
     </section>
