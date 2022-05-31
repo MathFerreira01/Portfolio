@@ -1,21 +1,19 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.ab0843eb.css",
-    "main.js": "/Portfolio/static/js/main.78549075.js",
+    "main.css": "/Portfolio/static/css/main.5312af7c.css",
+    "main.js": "/Portfolio/static/js/main.d7b7590e.js",
+    "static/media/project3.jpg": "/Portfolio/static/media/project3.6facc981cbd680f389b2.jpg",
+    "static/media/Project2.jpg": "/Portfolio/static/media/Project2.1804d8e1e0b27b2922ad.jpg",
     "static/media/CV - Matheus Ferreira Santos.pdf": "/Portfolio/static/media/CV - Matheus Ferreira Santos.cbac2abae512761a3d9a.pdf",
     "static/media/Hipster-Developer-Dice.jpg": "/Portfolio/static/media/Hipster-Developer-Dice.1dd543ba821a7f249c9f.jpg",
-    "static/media/Youtube.jpeg": "/Portfolio/static/media/Youtube.de07be42e773b86e6605.jpeg",
-    "static/media/Twitter.jpeg": "/Portfolio/static/media/Twitter.d1b226de5ca44f6a43a0.jpeg",
-    "static/media/netflix.jpeg": "/Portfolio/static/media/netflix.e97f5528d681ff538c34.jpeg",
-    "static/media/SmartBank.jpeg": "/Portfolio/static/media/SmartBank.23b92955b5d076f9839f.jpeg",
-    "static/media/whatsapp.jpeg": "/Portfolio/static/media/whatsapp.82290c9763ffd05fab18.jpeg",
+    "static/media/project1.jpg": "/Portfolio/static/media/project1.b1d6e5440e5d37431f56.jpg",
     "static/media/user.png": "/Portfolio/static/media/user.d4bb4e5ba3783df8c265.png",
     "index.html": "/Portfolio/index.html",
-    "main.ab0843eb.css.map": "/Portfolio/static/css/main.ab0843eb.css.map",
-    "main.78549075.js.map": "/Portfolio/static/js/main.78549075.js.map"
+    "main.5312af7c.css.map": "/Portfolio/static/css/main.5312af7c.css.map",
+    "main.d7b7590e.js.map": "/Portfolio/static/js/main.d7b7590e.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab0843eb.css",
-    "static/js/main.78549075.js"
+    "static/css/main.5312af7c.css",
+    "static/js/main.d7b7590e.js"
   ]
 }
