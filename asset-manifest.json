@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.0ed8cfeb.css",
-    "main.js": "/Portfolio/static/js/main.d7b7590e.js",
-    "static/media/project3.jpg": "/Portfolio/static/media/project3.6facc981cbd680f389b2.jpg",
-    "static/media/Project2.jpg": "/Portfolio/static/media/Project2.1804d8e1e0b27b2922ad.jpg",
+    "main.css": "/Portfolio/static/css/main.b9b76693.css",
+    "main.js": "/Portfolio/static/js/main.d2576ec2.js",
     "static/media/CV - Matheus Ferreira Santos.pdf": "/Portfolio/static/media/CV - Matheus Ferreira Santos.cbac2abae512761a3d9a.pdf",
     "static/media/Hipster-Developer-Dice.jpg": "/Portfolio/static/media/Hipster-Developer-Dice.1dd543ba821a7f249c9f.jpg",
-    "static/media/project1.jpg": "/Portfolio/static/media/project1.b1d6e5440e5d37431f56.jpg",
+    "static/media/Youtube.jpeg": "/Portfolio/static/media/Youtube.de07be42e773b86e6605.jpeg",
+    "static/media/Twitter.jpeg": "/Portfolio/static/media/Twitter.d1b226de5ca44f6a43a0.jpeg",
+    "static/media/netflix.jpeg": "/Portfolio/static/media/netflix.e97f5528d681ff538c34.jpeg",
+    "static/media/Discord.jpeg": "/Portfolio/static/media/Discord.acb88de925ae1d24dc3e.jpeg",
+    "static/media/SmartBank.jpeg": "/Portfolio/static/media/SmartBank.23b92955b5d076f9839f.jpeg",
+    "static/media/whatsapp.jpeg": "/Portfolio/static/media/whatsapp.82290c9763ffd05fab18.jpeg",
     "static/media/user.png": "/Portfolio/static/media/user.d4bb4e5ba3783df8c265.png",
     "index.html": "/Portfolio/index.html",
-    "main.0ed8cfeb.css.map": "/Portfolio/static/css/main.0ed8cfeb.css.map",
-    "main.d7b7590e.js.map": "/Portfolio/static/js/main.d7b7590e.js.map"
+    "main.b9b76693.css.map": "/Portfolio/static/css/main.b9b76693.css.map",
+    "main.d2576ec2.js.map": "/Portfolio/static/js/main.d2576ec2.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ed8cfeb.css",
-    "static/js/main.d7b7590e.js"
+    "static/css/main.b9b76693.css",
+    "static/js/main.d2576ec2.js"
   ]
 }
