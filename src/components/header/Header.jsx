@@ -1,16 +1,16 @@
 import React from 'react'
 import CTA from './CTA'
 import './header.css'
-import ME from '../../assets/me.png'
+import ME from '../../assets/user.png'
 import HeaderSocials from './HeaderSocials'
 
 function Header() {
   return (
     <header>
       <div className="container header_container">
-        <h5>Hello I'm</h5>
+        <h5>Olá, eu sou</h5>
         <h1>Matheus</h1>
-        <h5 className='text-light'>Frontend Developer</h5>
+        <h5 className='text-light'>Desenvolvedor Frontend</h5>
         <CTA/>
         <HeaderSocials/>
 

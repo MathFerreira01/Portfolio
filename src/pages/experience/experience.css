@@ -21,7 +21,7 @@
 .experience_container > div h3 {
     text-align: center;
     margin-bottom: 2rem;
-    color: var(--color-primary);
+    color: var(--color-white);
 }
 
 .experience_content {
@@ -62,6 +62,7 @@
 
 @media screen and (max-width: 600px) {
     .experience_container {
+        margin: 1rem;
         gap: 1rem;
     }
 

@@ -11,7 +11,7 @@
     background: linear-gradient(
         45deg, 
         transparent, 
-        var(--color-primary),
+        var(--color-bg-variant),
         transparent
     );
     display: grid;
@@ -23,6 +23,10 @@
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);
+}
+
+.about_me-image img {
+    height: 31.5rem;
 }
 
 .about_me-image:hover {
@@ -91,6 +95,11 @@
 /* ============================================= MEDIA QUERIES (SMALL DEVICES) ===============================================*/
 
 @media screen and (max-width: 600px) {
+
+    .about_container {
+        margin: 1rem;
+    }
+
     .about_me {
         width: 65%;
         margin: 0 auto 3rem;

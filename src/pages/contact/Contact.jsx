@@ -24,8 +24,8 @@ function Contact() {
 
   return (
     <section id='contact'>
-      <h5>Get In Touch</h5>
-      <h2>Contact Me</h2>
+      <h5>Entrar em contato</h5>
+      <h2>Contate-me</h2>
 
       <div className="container contact_container">
           <div className="contact_options">
@@ -33,13 +33,13 @@ function Contact() {
               <MdOutlineMail className='contact_option-icon'/>
               <h4>Email</h4>
               <h5>ferreiramatheus124@gmail.com</h5>
-              <a href='ferreiramatheus124@gmail.com'>Send a message</a>
+              <a href='ferreiramatheus124@gmail.com'>Envie uma mensagem</a>
             </article>
             <article className='contact_option'>
               <BsWhatsapp className='contact_option-icon'/>
               <h4>WhatsApp</h4>
-              <h5>+55 61 996194498</h5>
-              <a href='https://api.whatsapp.com/send?phone+5561996194498'>Send a message</a>
+              <h5>55 61 996194498</h5>
+              <a href='https://api.whatsapp.com/send?phone=5561996194998'>Envie uma mensagem</a>
             </article>
           </div>
           {/* END OF CONTACT OPTIONS */}
@@ -47,7 +47,7 @@ function Contact() {
             <input type="text" name='name' placeholder='Your Full Name' required/>
             <input type="email" name="email" placeholder="Email"/>
             <textarea name='message' rows="7" placeholder="Your Message" required></textarea>
-            <button type="submit" className="btn btn-primary">Send Message</button>
+            <button type="submit" className="btn btn-primary">Envie uma mensagem</button>
           </form>
       </div>
     </section>
