@@ -87,6 +87,10 @@
         margin: 2rem auto 4rem;
     }
 
+    .about_me-image img {
+        height: 22rem;
+    }
+
     .about_content p {
         margin: 1rem 0 1.5rem;
     }
@@ -103,6 +107,10 @@
     .about_me {
         width: 65%;
         margin: 0 auto 3rem;
+    }
+
+    .about_me-image img {
+        height: 15.5rem;
     }
 
     .about_cards {
