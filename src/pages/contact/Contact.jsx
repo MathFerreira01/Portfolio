@@ -22,6 +22,7 @@ function Contact() {
       });
   };
 
+  
   return (
     <section id='contact'>
       <h5>Entrar em contato</h5>
@@ -45,7 +46,7 @@ function Contact() {
           {/* END OF CONTACT OPTIONS */}
           <form ref={form} onSubmit={sendEmail}>
             <input type="text" name='name' placeholder='Your Full Name' required/>
-            <input type="email" name="email" placeholder="Email"/>
+            <input type="email" name="email" placeholder="Email" required/>
             <textarea name='message' rows="7" placeholder="Your Message" required></textarea>
             <button type="submit" className="btn btn-primary">Envie uma mensagem</button>
           </form>
