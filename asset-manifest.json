@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.b9b76693.css",
-    "main.js": "/Portfolio/static/js/main.d2576ec2.js",
+    "main.js": "/Portfolio/static/js/main.734a0f9a.js",
     "static/media/CV - Matheus Ferreira Santos.pdf": "/Portfolio/static/media/CV - Matheus Ferreira Santos.cbac2abae512761a3d9a.pdf",
     "static/media/Hipster-Developer-Dice.jpg": "/Portfolio/static/media/Hipster-Developer-Dice.1dd543ba821a7f249c9f.jpg",
     "static/media/Youtube.jpeg": "/Portfolio/static/media/Youtube.de07be42e773b86e6605.jpeg",
@@ -13,10 +13,10 @@
     "static/media/user.png": "/Portfolio/static/media/user.d4bb4e5ba3783df8c265.png",
     "index.html": "/Portfolio/index.html",
     "main.b9b76693.css.map": "/Portfolio/static/css/main.b9b76693.css.map",
-    "main.d2576ec2.js.map": "/Portfolio/static/js/main.d2576ec2.js.map"
+    "main.734a0f9a.js.map": "/Portfolio/static/js/main.734a0f9a.js.map"
   },
   "entrypoints": [
     "static/css/main.b9b76693.css",
-    "static/js/main.d2576ec2.js"
+    "static/js/main.734a0f9a.js"
   ]
 }
