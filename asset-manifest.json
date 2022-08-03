@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.6fa179f5.css",
-    "main.js": "/Portfolio/static/js/main.3eed11d9.js",
+    "main.js": "/Portfolio/static/js/main.07159593.js",
     "static/media/CV - Matheus Ferreira Santos.pdf": "/Portfolio/static/media/CV - Matheus Ferreira Santos.cf78f478f6ac1b98864f.pdf",
     "static/media/Hipster-Developer-Dice.jpg": "/Portfolio/static/media/Hipster-Developer-Dice.1dd543ba821a7f249c9f.jpg",
-    "static/media/Youtube.jpeg": "/Portfolio/static/media/Youtube.de07be42e773b86e6605.jpeg",
     "static/media/Twitter.jpeg": "/Portfolio/static/media/Twitter.d1b226de5ca44f6a43a0.jpeg",
     "static/media/netflix.jpeg": "/Portfolio/static/media/netflix.e97f5528d681ff538c34.jpeg",
     "static/media/Discord.jpeg": "/Portfolio/static/media/Discord.acb88de925ae1d24dc3e.jpeg",
-    "static/media/SmartBank.jpeg": "/Portfolio/static/media/SmartBank.23b92955b5d076f9839f.jpeg",
+    "static/media/weather.jpeg": "/Portfolio/static/media/weather.caba30a7b2e5f1193bbb.jpeg",
+    "static/media/aplicação organo.jpeg": "/Portfolio/static/media/aplicação organo.a2138195176922cd10df.jpeg",
     "static/media/whatsapp.jpeg": "/Portfolio/static/media/whatsapp.82290c9763ffd05fab18.jpeg",
     "static/media/user.png": "/Portfolio/static/media/user.d4bb4e5ba3783df8c265.png",
     "index.html": "/Portfolio/index.html",
     "main.6fa179f5.css.map": "/Portfolio/static/css/main.6fa179f5.css.map",
-    "main.3eed11d9.js.map": "/Portfolio/static/js/main.3eed11d9.js.map"
+    "main.07159593.js.map": "/Portfolio/static/js/main.07159593.js.map"
   },
   "entrypoints": [
     "static/css/main.6fa179f5.css",
-    "static/js/main.3eed11d9.js"
+    "static/js/main.07159593.js"
   ]
 }
