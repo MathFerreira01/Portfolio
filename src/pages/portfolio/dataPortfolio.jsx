@@ -1,9 +1,9 @@
 import React from "react";
 import Twitter from "../../assets/Twitter.jpeg";
 import Netflix from "../../assets/netflix.jpeg";
-import YouTube from "../../assets/Youtube.jpeg";
+import Organo from "../../assets/aplicação organo.jpeg";
 import WhatsApp from "../../assets/whatsapp.jpeg"; 
-import SmartBank from "../../assets/SmartBank.jpeg"; 
+import Weather from "../../assets/weather.jpeg"; 
 import Discord from "../../assets/Discord.jpeg"; 
 
 const data = [
@@ -23,10 +23,10 @@ const data = [
   },
   {
     id: 3,
-    image: YouTube,
-    title: "Clone do YouTube",
-    github: "https://github.com/MathFerreira01/clone-youtube",
-    demo: "https://mathferreira01.github.io/clone-youtube/",
+    image: Organo,
+    title: "Organo",
+    github: "https://github.com/MathFerreira01/Organo",
+    demo: "https://organo-theta.vercel.app/",
   },
   {
     id: 4,
@@ -37,10 +37,10 @@ const data = [
   },
   {
     id: 5,
-    image: SmartBank,
-    title: "Smart Bank",
-    github: "https://github.com/MathFerreira01/clone_whatsapp",
-    demo: "https://mathferreira01.github.io/Conta-bancaria/",
+    image: Weather,
+    title: "Weather App",
+    github: "https://github.com/MathFerreira01/Weather-App",
+    demo: "https://weather-app-phi-beryl.vercel.app/",
   },
   {
     id: 6,
